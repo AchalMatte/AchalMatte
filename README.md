@@ -1,99 +1,94 @@
-<!-- 🌌 HERO ANIMATED HEADER -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=260&section=header&text=ACHAL%20MATTE&fontSize=50&fontColor=ffffff&animation=fadeIn)
+<!-- 🌊 Animated Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Achal%20Matte&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
-<!-- ✨ Animated Role Text -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+Explorer;UI/UX+Lover;Building+Real+World+Projects&center=true&size=22)
-
----
-
-## 🌟 WHO AM I?
-
-🚀 I am **Achal Matte**  
-🎓 A passionate **B.Tech CSE (AIML) Student**  
-💻 A **Full Stack Web Developer (MERN Stack)**  
-🔥 A creator who builds **real-world scalable web apps**  
-🧠 A learner exploring **AI, Web & System Design**  
-🎯 Aiming to become a **Top Software Engineer**
+<!-- ✨ Typing Animation -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+Explorer;Building+Scalable+Projects&center=true&size=22)
 
 ---
 
-## ⚡ MY DEVELOPER JOURNEY
+## 🎓 About Me
 
-🌱 Started with HTML, CSS & JavaScript  
-⚙️ Moved into React.js for frontend development  
-🔧 Learning Node.js for backend power  
-🗄️ Working with MySQL databases  
-🚀 Building full-stack MERN projects  
-🔥 Exploring AI + modern web technologies  
-
----
-
-## 💎 WHAT MAKES ME DIFFERENT
-
-✨ Clean & modern UI lover  
-⚡ Fast learner & problem solver  
-🎨 Focused on UI/UX design quality  
-🧩 Loves breaking problems into logic  
-🤝 Team player & open to collaboration  
-🚀 Always building something new  
+🎓 B.Tech CSE (AIML) Student  
+💻 Full Stack Web Developer (MERN Stack)  
+🚀 Passionate about scalable web applications  
+🌱 Learning React.js, Node.js & System Design  
+🔥 Building real-world AI + Web projects  
+🎯 Goal: Become Industry-Ready Software Engineer  
+⚡ Focused on clean UI + performance + innovation  
 
 ---
 
-## 🌐 CONNECT WITH ME
+## ⚡ Developer Identity
 
-[![Instagram](https://img.shields.io/badge/Instagram-ff4b5c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/achalmatte1/)
+💡 Problem Solver  
+🧠 Logical Thinker  
+🎨 UI/UX Enthusiast  
+⚙️ Backend Builder  
+🚀 Always Learning & Shipping Projects  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achal-matte-8747562b0/)
+---
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-ff4b5c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/achalmatte1/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achal-matte-8747562b0/)  
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achalmatte61@gmail.com)
 
 ---
 
-## 💻 TECH ARSENAL
+## 💻 Tech Stack
 
 ### 🌐 Frontend
-HTML | CSS | JavaScript | React.js  
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 
 ### ⚙️ Backend
-Node.js | PHP  
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
 
 ### 🗄️ Database
-MySQL  
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
 ### 🛠️ Tools
-Git | GitHub | VS Code  
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 📊 LIVE GITHUB PERFORMANCE
+## 📊 GitHub Analytics
 
-<!-- 📊 Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AchalMatte&show_icons=true&theme=radical&hide_border=true)
+<!-- 📈 Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AchalMatte&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!-- 🔥 Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=AchalMatte&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AchalMatte&theme=tokyonight&hide_border=true)
 
-<!-- 📈 Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AchalMatte&layout=compact&theme=radical&hide_border=true)
+<!-- 📊 Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchalMatte&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🐍 CONTRIBUTION FLOW
+## 🐍 Contribution Snake Animation
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🚀 CURRENT MISSION
+## 🚀 Current Goals
 
-✔ Master MERN Stack Development  
-✔ Build Industry-Level Projects  
+✔ Master MERN Stack  
+✔ Build Advanced Full Stack Projects  
 ✔ Contribute to Open Source  
 ✔ Improve DSA & System Design  
-✔ Get a Top Internship  
+✔ Secure Web Developer Internship  
 
 ---
 
-## ⭐ FINAL QUOTE
+## 🌟 Developer Quote
 
-> “I don’t just write code — I build experiences that solve real problems.”
+> “First, solve the problem. Then, write the code.”
