@@ -85,7 +85,9 @@
 ✔ Build Advanced Full Stack Projects  
 ✔ Contribute to Open Source  
 ✔ Improve DSA & System Design  
-✔ Secure Web Developer Internship  
+✔ Secure Web Developer Internship
+✔  Master In Genrative AI 
+
 
 ---
 
